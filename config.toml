@@ -1,7 +1,10 @@
-title = "Wilfrid's War"
-baseURL = ""
+title = "Wilfrid's War in Letters"
+baseURL = "https://dunlopfamily.link"
+#baseURL = ""
 languageCode = "en-us"
 theme = "ananke"
+resourceDir = "resources"
+# themesDir = "../themes/"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
@@ -9,6 +12,7 @@ SectionPagesMenu = "main"
 Paginate = 9 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+pluralizelisttitles = false 
 
 [sitemap]
   changefreq = "monthly"
@@ -16,6 +20,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
+  custom_css = ["css/_styles.css"] 
   favicon = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = "https://www.facebook.com/kathy.dunlop.52"
@@ -32,3 +37,8 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/page1.jpg"
   recent_posts_number = 0
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

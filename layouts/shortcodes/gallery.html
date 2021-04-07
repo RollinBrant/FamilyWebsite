@@ -1,0 +1,17 @@
+<link rel="stylesheet" 
+
+ href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js">
+</script>
+
+{{ $image := (.Page.Resources.ByType "image") }}
+{{ with $image }}
+    {{ range first 1 . }}
+    {{ $resized := .Fill "150x115 q20" }}
+    <a href="{{ .Permalink }}" data-lightbox="x"><img src="{{ $resized.Permalink }}" /></a>
+    {{ end }}
+    {{ range after 1 . }}
+    <a href="{{ .Permalink }}" data-lightbox="x"><img src="" /></a>
+    {{ end }}
+{{ end }}

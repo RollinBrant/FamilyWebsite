@@ -1,0 +1,16 @@
+.nested-img img {
+ width:auto;
+ max-width:none;
+ display:inline;
+}
+
+/*
+This doesn't do anything
+.lb-outerContainer {
+    max-width: 720px; 
+    max-height: 720px;
+}
+.lb-dataContainer {
+    max-width: 220px; /* For the text below image */
+}
+*/

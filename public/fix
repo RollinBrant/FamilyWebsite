@@ -1,0 +1,1 @@
+sed -e 's/\^/<sup>/; s/\^/<\/sup>/' new.md > newer.md
