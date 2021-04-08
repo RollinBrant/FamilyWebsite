@@ -20,7 +20,7 @@ pluralizelisttitles = false
   filename = "sitemap.xml"
 
 [params]
-  custom_css = ["css/_styles.css"] 
+  custom_css = ["/css/_styles.css"] 
   favicon = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = "https://www.facebook.com/kathy.dunlop.52"
