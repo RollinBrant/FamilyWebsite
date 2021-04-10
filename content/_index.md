@@ -5,7 +5,7 @@ description:  "Wilfrid Dunlop's War Experience in Letters"
 ---
 <style>
 figcaption {
-  align: center; }  
+    align: center; }  
 </style>
 
  Welcome to this archive of Wilfrid Dunlop's war Correspondence and Photos
@@ -113,7 +113,7 @@ Three -- No, Make that Four - Grandfathers
 
  While in the trenches, Wilfrid begged strictly for goodies (cake and smokes, mostly) rather than cash. After he was wounded and given a clerical job in England, the hounding for money we see in his earlier letters is revived. Sometimes it's overt, but it's more often a disingenuous wheedling for cash. From the hospital, he writes: "I wrote to May the other day and will try and raise a penny stamp to write to Ruby\...we have to pay our own postage now you know."
 
- Wilfrid was a unapologetic anglophile and was desperate to see more of it during his rarely granted leaves of absence. Wilfrid's charms won the hearts of a few fair ladies, and he had one or two English girlfiends he was anxious to visit. Travel required money, however, and upcoming leaves would bring on a frenzy of begging letters to both sister and mother to make those trips happen.
+ Wilfrid was a unapologetic anglophile and was desperate to see more of it during his rarely granted leaves of absence. Wilfrid's charms won the hearts of a few fair ladies, and he had one or two English girlfriends he was anxious to visit. Travel required money, however, and upcoming leaves would bring on a frenzy of begging letters to both sister and mother to make those trips happen.
 
  Wilfrid seemed to write what he thought would be most acceptable to his audience. He would often tell his mother one thing and his sister quite another. For instance, on October 17, 1916, in the early days of his convalescence, he told his mother, "On Sunday afternoon I was out to tea with some very nice people."
 
@@ -385,7 +385,7 @@ Hill 60, April 1916
 
  Wilfrid's return from the field hospital coincided with the 5th's return to the exact same front-line trenches of the Ypres salient around Hill 60. They were subjected to both daily and nightly shelling as the German's started gearing up for the all-out pounding of the upcoming major offensive called the Battle of Mount Sorrel (June 2 -- 13).
 
- The German's strategy behind the Mount Sorrel offensive was twofold: to regain some of strategically important high-ground of the salient that had been previously lost, and to draw troops away from the Somme, where allied troops had been gathering for the past few weeks, by keeping them pinned down in Ypres. The Germans planned an all-out assault to be carried out by the Royal Wurttemberg Corps in an attack on the peaks of Mount Sorrel, Hill 62 and Hill 61.
+ The German's strategy behind the Mount Sorrel offensive was twofold: to regain some of strategically important high-ground of the salient that had been previously lost, and to draw troops away from the Somme, where allied troops had been gathering for the past few weeks, by keeping them pinned down in Ypres. The Germans planned an all out assault to be carried out by the Royal Wurttemberg Corps in an attack on the peaks of Mount Sorrel, Hill 62 and Hill 61.
 
  Of course, "peak" is a relative term. Like most of Belgium, the area around Ypres is extremely flat, so occupying any degree of higher ground provides a huge observational and strategic advantage. Mount Sorrel is, in fact, only 30 metres high.
 
@@ -1001,7 +1001,7 @@ Hill 60, April 1916
 
  In July, Wilfrid was "laid up in bed for about ten days with influenza. I had a pretty stiff attack of it and am just nicely getting over it now. I had a temperature of 104 the greater part of the time."
 
- Wilfrid was infected by the Spanish Influenza virus that swept through the western world with grim results. During the pandemic of 1918/19, over 50 million people died worldwide and a quarter of the British population were affected. The death toll was 228,000 in Britain alone. Global mortality rate is not known, but is estimated to have been between 10% to 20% of those who were infected.
+ Wilfrid was infected by the Spanish Influenza virus that swept through the western world with grim results. During the pandemic of 1918/19, over 50 million people died worldwide and a quarter of the British population were affected. The death toll was 228,000 in Britain alone. Global mortality rate is not known, but is estimated to have been between 10% to 20% of those who were infected.
 
  Few families were unaffected by the pandemic. Wilfrid married my Granny, Leona Newton in Minneapolis a few years after the war. Leona's dearest sister, Mabel, lost both her husband, Jake Fountain and their 12-year-old daughter to the same epidemic.
 
@@ -1047,7 +1047,7 @@ Hill 60, April 1916
 
  Clifford Neelands was unlucky to have been killed so close to the end of the war. He was also unlucky to have contracted a venereal disease and endured a long, humiliating treatment, just like Wilfred. Neither of them, however, were by any means uniquely unlucky. Both death and venereal disease were rampant during World War 1.
 
- There were 418,052 men registered in the Canadian Expeditonary Force across the entirety of the war. By the end of the first year of the war in 1915, it was reported that 30,000 men were infected with venereal disease. By the end of the war, this number had grown to a final report of 66,083 cases (Cassel 1987) -- approximately 16%. During the First World War, VD caused nearly half a million (416,891) hospital admissions among British and Dominion troops (Mitchell & Smith 1931: 74). Of those infected, the great majority contracted Gonorrhea, a condition much more curable than syphilis.
+ There were 418,052 men registered in the Canadian Expeditonary Force across the entirety of the war. By the end of the first year of the war in 1915, it was reported that 30,000 men were infected with venereal disease. By the end of the war, this number had grown to a final report of 66,083 cases (Cassel 1987) -- approximately 16%. During the First World War, VD caused nearly half a million (416,891) hospital admissions among British and Dominion troops (Mitchell & Smith 1931: 74). Of those infected, the great majority contracted Gonorrhea, a condition much more curable than syphilis.
 
  \[Webster Davis was another unlucky Neepawa lad mentioned in the batch of letters written while Wilfrid was undergoing the cure. Only 19 years old, he's joined the forces in 1917 and was killed in action only five weeks before the end of the war on September 28, likely also at the Battle of Amiens.
 
@@ -1235,7 +1235,7 @@ Blake and Wilfrid (Circa 1925)
 
  Here's the Wikipedia description of the Thiepval Ridge assault actions of Wilfrid's 1<sup>st</sup> Division:
 
- The 1st Canadian Division attacked with two brigades. The right brigade with two battalions advanced 400 yards (370 m) to Sudbury Trench and resumed the advance at 1:00 p.m., reaching Kenora Trench <img src="(https://en.wikipedia.org/wiki/Battle_of_Thiepval_Ridge#cite_note-FOOTNOTEMcCarthy1995119-16/>on the right which ran north-west back to Regina/Stuff Trench by 2:40 p.m.
+ The 1st Canadian Division attacked with two brigades. The right brigade with two battalions advanced 400 yards (370 m) to Sudbury Trench and resumed the advance at 1:00 p.m., reaching Kenora Trench <img src="(https://en.wikipedia.org/wiki/Battle_of_Thiepval_Ridge#cite_note-FOOTNOTEMcCarthy1995119-16/>on the right which ran north-west back to Regina/Stuff Trench by 2:40 p.m.
 
  The battalion on the left (the 5<sup>th</sup>) had been delayed and German bombers counter-attacked the flank and were repulsed. The left battalion had formed up in no man\'s land, to escape the German counter-barrage but had a harder fight to reach their objectives, taking until mid-afternoon to reach the second objective, which was just short of the ridge crest, linking with the left brigade later. The left brigade advanced with two reinforced battalions, which received machine-gun fire from the left flank but reached *Zollern* Trench, taking the western part after a delay. At 1:00 p.m., the advance resumed towards Hessian Trench, which was taken easily. Touch was gained with the right brigade but troops from the 11th Division on the left were not found. The Canadians bombed down *Zollern* Trench and built a barricade, as machine-gun fire forced a slight withdrawal from the left part of Hessian Trench, a defensive flank being thrown back from Hessian to *Zollern* Trench and dug in by 10:30 p.m..
 
