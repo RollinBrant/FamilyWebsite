@@ -10,7 +10,7 @@ figcaption {
 
  Welcome to this archive of Wilfrid Dunlop's war Correspondence and Photos
 
-Three -- No, Make that Four - Grandfathers
+Three -- No, Make that 4 - Grandfathers
 
  When I started writing about Wilfrid Dunlop's war experience, I had three grandfathers, but recently I had to add a fourth to the list:
 
